@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://uxis.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "UX is"
 theme = "casper"
+
+[params]
+  description = "Thoughts, stories and ideas."
+  cover = "images/ux-is-bg.png"
+  hideHUGOSupport = true
